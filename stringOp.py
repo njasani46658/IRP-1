@@ -1,0 +1,6 @@
+print("This is to show you power of Python Strings")
+yourInput = input("Enter any statement")
+print("Your original statement " + yourInput)
+print("Length of statement you entered : " + str(len(yourInput)))
+print("Your statement starts with : " + yourInput[0])
+print("Let me print it twice : " + yourInput * 2)
